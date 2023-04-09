@@ -18,11 +18,11 @@ msgstr ""
 
 #: source/app/service-providers/commands/language-tool.ts:180
 msgid "Document too long"
-msgstr ""
+msgstr "Documento muito longo"
 
 #: source/app/service-providers/commands/language-tool.ts:185
 msgid "offline"
-msgstr ""
+msgstr "offline"
 
 #: source/app/service-providers/commands/dir-new.ts:36
 #: source/app/service-providers/commands/dir-new.ts:37
@@ -210,7 +210,7 @@ msgstr "Arquivos"
 #: source/app/service-providers/commands/root-open.ts:73
 #: source/app/service-providers/windows/index.ts:220
 msgid "Open project folder"
-msgstr "Abrir projeto"
+msgstr "Abrir pasta do projeto"
 
 #: source/app/service-providers/commands/root-open.ts:83
 msgid "Cannot open directory"
@@ -229,12 +229,12 @@ msgstr "Abrir pasta raiz %s ..."
 #: source/app/service-providers/commands/root-open.ts:147
 #, javascript-format
 msgid "%s has been loaded."
-msgstr "%s carregado."
+msgstr "%s foi carregado."
 
 #: source/app/service-providers/commands/root-open.ts:159
 #, javascript-format
 msgid "Could not open workspace %s."
-msgstr ""
+msgstr "N"
 
 #: source/app/service-providers/commands/set-open-directory.ts:40
 msgid "Directory not found"
